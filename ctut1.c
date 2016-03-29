@@ -65,5 +65,11 @@ main() {
 
 	printf("With Parantheses %d\n\n", (3 + 6) * 10);
 
+	int numberEx = 12;
+
+	int numberEx2 = 14;
+
+	printf("numberEx / numberEx2 : %f\n\n", (float) numberEx / numberEx2); // casting int to float
+
 
 }
